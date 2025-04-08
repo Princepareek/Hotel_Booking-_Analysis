@@ -82,7 +82,8 @@ Booking Lead Time by Hotel
 Guest Origin by Country
 
 Meal Type Preferences
-![hotel 2](https://github.com/user-attachments/assets/c6df08aa-483c-456b-997b-54bfc273daa8)
+![hotel 6](https://github.com/user-attachments/assets/84acb4f7-fdd2-40e8-89d7-e60fb18aecb3)
+
 
 🧠 Conclusion
 This project offers valuable insights into customer behavior and booking patterns in the hotel industry. These findings can be used to:
