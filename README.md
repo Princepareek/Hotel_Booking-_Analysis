@@ -99,6 +99,3 @@ Optimize resource planning based on seasonality
 👨‍💻 Author
 Prince Pareek
 📧 Email: princepareek29@gmail.com
-
-⭐ Support
-If you found this project useful, consider giving it a ⭐!
